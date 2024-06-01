@@ -9,14 +9,14 @@ Esta es una API simple para administrar usuarios. La API permite realizar operac
 
 ## Instalación
 
-1. Clona este repositorio en tu máquina local:
+1. Clona este repositorio en tu máquina local o, en caso de ser una carpeta ZIP, extrae el contenido de la carpeta:
     ```sh
     git clone https://github.com/tu-usuario/tu-repositorio.git
     ```
 
 2. Navega al directorio del proyecto:
     ```sh
-    cd tu-repositorio
+    cd tu-repositorio o carpeta
     ```
 
 3. Instala las dependencias:
