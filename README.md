@@ -30,3 +30,10 @@ Para iniciar el servidor, ejecuta el siguiente comando:
     ```sh
     node index.js
     ```
+
+## Documentación de la API
+
+La documentación de la API se genera automáticamente con Swagger. Para ver la documentación, abre tu navegador web y navega a
+    ```sh
+    http://localhost:3000/api-docs
+    ```
